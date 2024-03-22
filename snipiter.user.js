@@ -7,7 +7,7 @@
 // @grant        none
 // @match        https://*/*
 // @run-at context-menu
-// @license MIT
+// @license do76
 // ==/UserScript==
 
 
